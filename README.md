@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CollinsNyatundo
-- 👀 I’m interested in Python programming, Data Science, Machine Learning and AI
-- 🌱 I’m currently learning machine learning and artificial intelligence
-- 💞️ I’m looking to collaborate on open source projects 
+- 👋 Hi, I’m Collins, an avid learner focused on continuous learning; it’s nice to meet you
+- 👀 I’m interested in Python programming, Data Analysis, Data Science, Machine Learning and AI
 - 📫 How to reach me: cnyagakan@gmail.com
 
 <!---
