@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Collins, an avid learner focused on continuous learning; it’s nice to meet you
+- 👋 Hi, I’m Collins, an avid learner 🧑🏾‍💻 and tinkerer👷🏾‍♂️; it’s nice to meet you
 - 👀 I’m interested in Python programming, Data Analysis, Data Science, Machine Learning and AI
 - 📫 How to reach me: cnyagakan@gmail.com
 
