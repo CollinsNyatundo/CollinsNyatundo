@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Collins Nyatundo</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Avid learner 🧑🏾‍💻 and tinkerer 👷🏾‍♂️ passionate about building, analyzing, and deploying data-driven projects.</h3>
 
 <p align="center">
