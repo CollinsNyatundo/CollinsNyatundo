@@ -1,39 +1,50 @@
-# 👋 Hi, I’m Collins!
-Avid learner 🧑🏾‍💻 and tinkerer 👷🏾‍♂️ passionate about building, analyzing, and deploying data-driven projects.
+<h1 align="center">Hi 👋, I'm Collins Nyatundo</h1>
+<h3 align="center">Avid learner 🧑🏾‍💻 and tinkerer 👷🏾‍♂️ passionate about building, analyzing, and deploying data-driven projects.</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://collins-nyagaka-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/collinsnyagaka001)
-
-📫 Email: cnyagakan@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CollinsNyatundo&show_icons=true&theme=radical" alt="CollinsNyatundo stats" />
+</p>
 
 ---
 
-## 🔧 Tech Stacks from Recent Projects
+- 🔭 I'm currently working on data science, AI automation and web development projects
+- 🌱 I'm learning new things in ML and web development every day!
+- 👯 I'm looking to collaborate on interesting data-driven projects
+- 💬 Ask me about **Data Science, Machine Learning, Web App Development, Data Visualization**
+- 📫 How to reach me: cnyagakan@gmail.com
+- ⚡ Fun fact: I love building things that make life easier!
 
+---
+
+### 🚀 Featured Projects
+
+#### Recent Tech Stacks:
 | Repository | Description | Main Tech Stack |
 |------------|-------------|-----------------|
 | [house-price-prediction](https://github.com/CollinsNyatundo/house-price-prediction) | Production-ready ML web app for house price prediction | Python, Machine Learning, Streamlit |
 | [Collins-Nyagaka-Portfolio](https://github.com/CollinsNyatundo/Collins-Nyagaka-Portfolio) | Personal developer portfolio | TypeScript, React, Next.js, Vercel |
-| [Bank-Customer-Segmentation-and-Personalization](https://github.com/CollinsNyatundo/Bank-Customer-Segmentation-and-Personalization) | Client segmentation using data science | Jupyter Notebook, Python, Data Science |
-| [Film-Analysis](https://github.com/CollinsNyatundo/Film-Analysis) | Film analysis for product offering | Jupyter Notebook, Python, Data Analysis |
-
-> _See all repositories and projects here: [All Repositories](https://github.com/search?q=user%3ACollinsNyatundo&sort=updated&order=desc&type=Repositories)_
+| [Bank-Customer-Segmentation](https://github.com/CollinsNyatundo/Bank-Customer-Segmentation-and-Personalization) | Client segmentation using data science | Jupyter Notebook, Python |
+| [Film-Analysis](https://github.com/CollinsNyatundo/Film-Analysis) | Film analysis for product offering | Jupyter Notebook, Python |
 
 ---
 
-### 🚀 I love exploring:
-- Data Science & Machine Learning
-- Web App Development
-- Data Visualization
-- Cloud Deployment
+### 🛠️ Languages & Tools
 
-Let's connect and create something impactful!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsNyatundo&layout=compact&theme=radical)
 
 ---
 
+### 📈 GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CollinsNyatundo&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=CollinsNyatundo&color=blueviolet)
 
-<!---
-CollinsNyatundo/CollinsNyatundo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  <b>Let's connect!</b><br/>
+  <a href="https://github.com/CollinsNyatundo">GitHub</a> •
+  <a href="https://linkedin.com/in/collinsnyagaka001">LinkedIn</a> •
+  <a href="https://collins-nyagaka-portfolio.vercel.app/">Portfolio</a> •
+  <a href="mailto:cnyagakan@gmail.com">Email</a>
+</p>
