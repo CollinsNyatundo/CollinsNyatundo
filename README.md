@@ -14,7 +14,6 @@ Avid learner 🧑🏾‍💻 and tinkerer 👷🏾‍♂️ passionate about bui
 |------------|-------------|-----------------|
 | [house-price-prediction](https://github.com/CollinsNyatundo/house-price-prediction) | Production-ready ML web app for house price prediction | Python, Machine Learning, Streamlit |
 | [Collins-Nyagaka-Portfolio](https://github.com/CollinsNyatundo/Collins-Nyagaka-Portfolio) | Personal developer portfolio | TypeScript, React, Next.js, Vercel |
-| [Fraud_Prediction_App](https://github.com/CollinsNyatundo/Fraud_Prediction_App) | Financial fraud prediction app | Python, Streamlit |
 | [Bank-Customer-Segmentation-and-Personalization](https://github.com/CollinsNyatundo/Bank-Customer-Segmentation-and-Personalization) | Client segmentation using data science | Jupyter Notebook, Python, Data Science |
 | [Film-Analysis](https://github.com/CollinsNyatundo/Film-Analysis) | Film analysis for product offering | Jupyter Notebook, Python, Data Analysis |
 
