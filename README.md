@@ -21,7 +21,7 @@
 #### Recent Tech Stacks:
 | Repository | Description | Main Tech Stack |
 |------------|-------------|-----------------|
-| [house-price-prediction](https://github.com/CollinsNyatundo/house-price-prediction) | Production-ready ML web app for house price prediction | Python, Machine Learning, Streamlit |
+| [house-price-prediction](https://github.com/CollinsNyatundo/house-price-prediction) | Basic ML web app for house price prediction using Linear Regression baseline model | Python, Machine Learning, Streamlit |
 | [Collins-Nyagaka-Portfolio](https://github.com/CollinsNyatundo/Collins-Nyagaka-Portfolio) | Personal developer portfolio | TypeScript, React, Next.js, Vercel |
 | [Bank-Customer-Segmentation](https://github.com/CollinsNyatundo/Bank-Customer-Segmentation-and-Personalization) | Client segmentation using data science | Jupyter Notebook, Python |
 | [Film-Analysis](https://github.com/CollinsNyatundo/Film-Analysis) | Film analysis for product offering | Jupyter Notebook, Python |
