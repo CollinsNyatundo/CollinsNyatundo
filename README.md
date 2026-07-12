@@ -81,6 +81,5 @@
 ### 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CollinsNyatundo&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CollinsNyatundo&theme=radical" alt="CollinsNyatundo Streak" />
 </p>
