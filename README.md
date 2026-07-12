@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Collins Nyatundo</h1>
-<h3 align="center">AI Systems Engineer & Fintech Architect building hardened, multi-agent operating systems and financial transaction pipelines.</h3>
+<h3 align="center">AI Systems Engineer building hardened, multi-agent operating systems and distributed transaction pipelines.</h3>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=CollinsNyatundo&show_icons=true&theme=radical&hide=stars,issues,contribs" alt="CollinsNyatundo stats" />
@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 **Focus**: Autonomous Multi-Agent Orchestrations, Hardened Fintech Compliance Systems, and Interactive 3D WebGL Dashboards.
+- 🔭 **Focus**: Autonomous Multi-Agent Orchestrations and Interactive 3D WebGL Dashboards.
 - ⚙️ **Framework Model**: Implementing the formal Agent Harness blueprint $H = (E, T, C, S, L, V)$ across my projects to ensure production-grade agent security and resilience.
 - 💬 **Ask me about**: Distributed Microservices, Kafka Ingestions, Neo4j Graph Analytics, RAG pipelines, and Multi-Agent Consensus loops.
 - 📫 **Reach me**: cnyagakan@gmail.com | [LinkedIn](https://linkedin.com/in/collinsnyagaka001) | [Portfolio Website](https://collins-nyagaka-portfolio.vercel.app/)
