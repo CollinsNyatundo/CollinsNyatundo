@@ -8,7 +8,7 @@
 ---
 
 - 🔭 **Focus**: Autonomous Multi-Agent Orchestrations, Hardened Fintech Compliance Systems, and Interactive 3D WebGL Dashboards.
-- ⚙️ **Framework Model**: Author of the formal Agent Harness blueprint $H = (E, T, C, S, L, V)$ for production-grade agent security and resilience.
+- ⚙️ **Framework Model**: Implementing the formal Agent Harness blueprint $H = (E, T, C, S, L, V)$ across my projects to ensure production-grade agent security and resilience.
 - 💬 **Ask me about**: Distributed Microservices, Kafka Ingestions, Neo4j Graph Analytics, RAG pipelines, and Multi-Agent Consensus loops.
 - 📫 **Reach me**: cnyagakan@gmail.com | [LinkedIn](https://linkedin.com/in/collinsnyagaka001) | [Portfolio Website](https://collins-nyagaka-portfolio.vercel.app/)
 
