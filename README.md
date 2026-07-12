@@ -2,7 +2,7 @@
 <h3 align="center">AI Systems Engineer & Fintech Architect building hardened, multi-agent operating systems and financial transaction pipelines.</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CollinsNyatundo&show_icons=true&theme=radical" alt="CollinsNyatundo stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CollinsNyatundo&show_icons=true&theme=radical" alt="CollinsNyatundo stats" />
 </p>
 
 ---
@@ -82,5 +82,6 @@
 ### 📈 GitHub Stats & Streak
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CollinsNyatundo&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CollinsNyatundo&theme=radical" alt="CollinsNyatundo Streak" />
 </p>
