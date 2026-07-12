@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Collins Nyatundo</h1>
+<h1 align="center">Hi 👋, I'm Collins</h1>
 <h3 align="center">AI Systems Engineer building hardened, multi-agent operating systems and distributed transaction pipelines.</h3>
 
 <p align="center">
