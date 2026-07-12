@@ -2,7 +2,7 @@
 <h3 align="center">AI Systems Engineer & Fintech Architect building hardened, multi-agent operating systems and financial transaction pipelines.</h3>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=CollinsNyatundo&show_icons=true&theme=radical&hide=stars" alt="CollinsNyatundo stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CollinsNyatundo&show_icons=true&theme=radical&hide=stars,issues,contribs" alt="CollinsNyatundo stats" />
 </p>
 
 ---
