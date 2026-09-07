@@ -15,12 +15,6 @@
 
 ### 🌐 Public Open-Source Flagships
 
-#### 🔬 [Deep Research Agent (DRA)](https://github.com/CollinsNyatundo/deepresearchagent)
-*Perplexity-grade autonomous deep web research engine utilizing evolutionary crossover synthesis and knowledge graphs.*
-- **Architecture**: Parallel search/scrape loops (`Scrapling` + `Playwright`) -> SSE streaming -> dynamic AntV G6 mindmaps & D3 force-directed notes graphs.
-- **Tech Stack**: FastAPI, React 19, Tailwind CSS, Playwright, Scrapling, PostgreSQL tsvector.
-- **Obsidian Sync**: Generates and downloads entire ingested wiki folder structures as ZIP files.
-
 #### 🏗️ [Production AI / RAG Template](https://github.com/CollinsNyatundo/production-ai-template)
 *Enterprise-ready reference template demonstrating the modern 9-layer AI/RAG application architecture.*
 - **Core Design**: Implements the formal Agent Harness framework $H = (E, T, C, S, L, V)$ to prevent session loss and secure LLM interactions.
@@ -49,12 +43,6 @@
 - **Data Flow**: Ingests M-Pesa feeds -> Kafka topics -> 35-typology JSON rule engines + IsolationForest ML models -> goAML XML FRC digital signature vaults.
 - **Integrations**: National identity verification (NIIMS/IPRS), Credit Reference Bureau (CRB) risk assessment, and OFAC/PEP watchlists.
 - **Tech Stack**: FastAPI (Python), Next.js (TypeScript), PostgreSQL, Neo4j, Apache Kafka, Alembic, Docker.
-
-#### 🤖 Ulti-IDE
-*A vertically-integrated, self-governing **AI Operating System** executing secure multi-agent engineering workflows.*
-- **Scale**: Coordinates 44 microservices, 9 core agent roles, and 8 framework adapters in a Turborepo + Poetry monorepo.
-- **Features**: GitNexus symbol dependency maps (28,000+ indexed symbols) to calculate code blast-radius, and gVisor container sandboxing.
-- **Tech Stack**: TypeScript, Python, Redis, PostgreSQL, Turborepo, PNPM.
 
 #### 📊 Ventura PM Suite
 *AI-native Product Management suite combining collaborative specifications, agent debates, and genetic task planners.*
