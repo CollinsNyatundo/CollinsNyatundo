@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Collins</h1>
-<h3 align="center">AI Systems Engineer building hardened, multi-agent operating systems and distributed transaction pipelines.</h3>
+<h3 align="center">AI/ML engineer building tested Python services, agent workflows, and production-oriented ML infrastructure.</h3>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CollinsNyatundo&show_icons=true&theme=dark&hide_border=true&title_color=471f94&icon_color=471f94&text_color=ffffff" alt="CollinsNyatundo GitHub Stats" />
