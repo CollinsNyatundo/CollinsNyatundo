@@ -12,7 +12,7 @@ FastAPI and Streamlit reference implementation for authenticated LLM application
 
 What to inspect: the request boundary in `app/main.py`, orchestration in `app/services/rag_pipeline.py`, security controls in `app/security/`, and CI/tests. The README distinguishes implemented behavior from local prototypes and missing deployment controls.
 
-### [Customer Churn ML System](https://github.com/CollinsNyatundo/Customer-Churn-Visualization)
+### [Customer Churn ML System](https://github.com/CollinsNyatundo/customer-churn-ml-system)
 
 Tabular-ML workflow covering validation-based model selection, threshold tuning, experiment tracking, API serving, monitoring examples, and reproducible synthetic demo data.
 
